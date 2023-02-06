@@ -1,0 +1,7 @@
+1, Terry, Medhurst, Smitham, 50, male, atuny0@sohu.com, +63 791 675 8914, atuny0, 9uQFF1Lh, 2000-12-25,
+https://robohash.org/hicveldicta.png, A−, 189, 75.4, Green, Black, Strands, 1745 T Street Southeast,
+Washington, 38.867033, -76.979235, 20020, DC
+
+id, firstName, lastName, maidenName, age, gender, email, phone, username, password, birthDate, image,
+bloodGroup, height, weight, eyeColor, hair.color, hair.type, address.address, address.city, address.coordinates.lat, address.coordinates.lng,
+address.postalCode, address.state
