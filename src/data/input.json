@@ -1,32 +1,66 @@
-{
-    "id": 1,
-    "firstName": "Terry",
-    "lastName": "Medhurst",
-    "maidenName": "Smitham",
-    "age": 50,
-    "gender": "male",
-    "email": "atuny0@sohu.com",
-    "phone": "+63 791 675 8914",
-    "username": "atuny0",
-    "password": "9uQFF1Lh",
-    "birthDate": "2000-12-25",
-    "image": "https://robohash.org/hicveldicta.png",
-    "bloodGroup": "A−",
-    "height": 189,
-    "weight": 75.4,
-    "eyeColor": "Green",
-    "hair": {
-        "color": "Black",
-        "type": "Strands"
-    },
-    "address": {
-        "address": "1745 T Street Southeast",
-        "city": "Washington",
-        "coordinates": {
-            "lat": 38.867033,
-            "lng": -76.979235
+[
+    {
+        "id": 1,
+        "firstName": "Terry",
+        "lastName": "Medhurst",
+        "maidenName": "Smitham",
+        "age": 50,
+        "gender": "male",
+        "email": "atuny0@sohu.com",
+        "phone": "+63 791 675 8914",
+        "username": "atuny0",
+        "password": "9uQFF1Lh",
+        "birthDate": "2000-12-25",
+        "image": "https://robohash.org/hicveldicta.png",
+        "bloodGroup": "A−",
+        "height": 189,
+        "weight": 75.4,
+        "eyeColor": "Green",
+        "hair": {
+            "color": "Black",
+            "type": "Strands"
         },
-        "postalCode": "20020",
-        "state": "DC"
+        "address": {
+            "address": "1745 T Street Southeast",
+            "city": "Washington",
+            "coordinates": {
+                "lat": 38.867033,
+                "lng": -76.979235
+            },
+            "postalCode": "20020",
+            "state": "DC"
+        }
+    },
+    {
+        "id": 2,
+        "firstName": "John",
+        "lastName": "Doe",
+        "maidenName": "John",
+        "age": 50,
+        "gender": "male",
+        "email": "atuny0@sohu.com",
+        "phone": "+63 899 675 2533",
+        "username": "john01",
+        "password": "ab12s59",
+        "birthDate": "1992-12-25",
+        "image": "https://robohash.org/abc.png",
+        "bloodGroup": "O−",
+        "height": 170,
+        "weight": 70.4,
+        "eyeColor": "Brown",
+        "hair": {
+            "color": "Brown",
+            "type": "Strands"
+        },
+        "address": {
+            "address": "1745 T Street Northeast",
+            "city": "Dallas",
+            "coordinates": {
+                "lat": 32.91,
+                "lng": -96.787
+            },
+            "postalCode": "75243",
+            "state": "TX"
+        }
     }
-}
+]
